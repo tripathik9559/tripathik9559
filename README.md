@@ -64,13 +64,3 @@
 </table>
 
 
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathik9559&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tripathik9559&layout=compact&theme=tokyonight&border_radius=10" height="160"/>
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tripathik9559&theme=tokyonight" height="160"/>
-</p>
