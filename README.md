@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/tripathik9559](https://github.com/tripathik9559)
 - 💬 Ask me about **Python • Django • REST APIs • PostgreSQL • Backend Logic • Deployment**
 - 📫 How to reach me **tripathik9559@gmail.com**
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1pFzOPs4IGiAvrVWG5WwIzJMkG6JTCizN/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1fTkyA9ZY2ORpuayDEBp3g7nKNd9R4Dzr/view)
 - ⚡ Fun fact **I enjoy building systems that solve real-world problems (and yes, I think I'm funny 😄)**
 
 <h3 align="left">Connect with me:</h3>
