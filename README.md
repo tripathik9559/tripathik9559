@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)](https://github.com/tripathik9559)
 
 <h1 align="center">Hi 👋, I'm Kartikey Kumar Tripathi</h1>
-<h3 align="center">Computer Science Engineer | Python Backend Developer | Aspiring SDE</h3>
+<h3 align="center">Computer Science Engineer | Python Backend Developer | Aspiring GENRATIVE AI ENGINEER</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
