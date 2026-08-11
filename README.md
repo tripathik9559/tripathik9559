@@ -67,10 +67,3 @@
 </div>
 
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tripathik9559&layout=compact&theme=tokyonight&border_radius=10" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tripathik9559&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
-</p>
-
